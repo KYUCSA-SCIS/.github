@@ -8,4 +8,4 @@ Welcome to the official GitHub organization for the **Kyambogo University Comput
 - Support peer mentorship, open-source learning, and shared leadership opportunities.
 
 ## Inclusion & Community Standards
-We strive to keep KYUCSA welcoming, accessible, and respectful for students at every stage of their journey. Please review our [Code of Conduct](./CODE_OF_CONDUCT.md) before taking part in community events and spaces.
+We strive to keep KYUCSA welcoming, accessible, and respectful for students at every stage of their journey. Please review our [Code of Conduct](page/CODE_OF_CONDUCT.md) before taking part in community events and spaces.
